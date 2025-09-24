@@ -1,4 +1,4 @@
-# posters-for-all
+# Posters For All
 This is the website for the non-profit organization: Posters For All.  
 If you have any questions or inquires, feel free to reach out to us!
 
