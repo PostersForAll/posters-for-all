@@ -1,5 +1,6 @@
 # posters-for-all
 This is the website for the non-profit organization: Posters For All.
+If you have any questions or inquires, feel free to reach out to us!
 
 ## Socials
 - [Instagram](https://www.instagram.com/direct/t/9902894529773404/)
